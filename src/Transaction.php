@@ -299,7 +299,7 @@
 		 *
 		 * @return $this
 		 */
-		public function setMetadata( array $metadata )
+		public function setMetadata( $metadata )
 		{
 			$this->metadata = $metadata;
 
